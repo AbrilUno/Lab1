@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="input_name">Please Input no 1: </string>
+    <string name="input_name2">Please Input no 2: </string>
+</resources>
